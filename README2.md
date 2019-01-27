@@ -2,7 +2,12 @@
 
 This is a simple websiter project for 
 showing how to use Git and Github together.
+
 ## Introduction
+
+This is example is to show different parts
+of the Git repository and various comamnds
+using a web project.
 
 ## Purpose
 
