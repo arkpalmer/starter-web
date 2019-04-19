@@ -1,3 +1,5 @@
 junk
-log
+*.log
 *rkp*
+# covers the log directory:
+log
