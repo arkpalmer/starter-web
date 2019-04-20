@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    Rob Palmer
 
     <name> -- <role> -- <twitter>
 
