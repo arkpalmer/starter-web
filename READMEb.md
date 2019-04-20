@@ -1,6 +1,6 @@
 # Starter Web Project
 
-made for le's
+made for le's by an epic le
 
 ## Intro
 
