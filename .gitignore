@@ -3,3 +3,4 @@ junk
 *rkp*
 # covers the log directory:
 log
+*.orig
